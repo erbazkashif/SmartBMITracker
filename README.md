@@ -46,11 +46,11 @@ This app uses globally recognized fitness formulas:
 
 ## 📸 Screenshots
 
-*(Yahan aap apni app ke screenshots upload karke link kar sakte hain)*
+Yet to be added
 
 ---
 
 ## 👨‍💻 Installation
 
-1. Clone this repository: 
+1. Download the .apk file from releases and install it in your android device
    
