@@ -1,0 +1,1 @@
+Smart BMI Tracker by Erbaz Labs – A professional-grade health & fitness application for Android. It goes beyond simple BMI to provide Body Fat %, BMR, Ideal Weight ranges, and Daily Calorie needs with a modern, real-time interactive UI.
